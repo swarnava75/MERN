@@ -1,0 +1,1 @@
+This is a complete Full-Stack(MERN) Ecommerce Shopping website created by me including user register/login portal, jwt,filter items,search items,add to cart,admin access and a web-developed buying option. I have learned a lot while building it and have explored so many things as well.
